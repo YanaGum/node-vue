@@ -1,0 +1,12 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+}
+
+.my-card{
+    width: 50%;
+    
+}
+
+a:-webkit-any-link {
+    text-decoration: none !important;
+}
